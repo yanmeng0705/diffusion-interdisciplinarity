@@ -2,7 +2,7 @@
 
 This repository contains the derived data and plotting code needed to reproduce Figures 1–3 of
 
-> Xing Y., Wang Y., Bu Y., Zhou Z., Dong K., Ma Y. *A U-shaped trajectory of diffusion-based interdisciplinarity in science: a renewed rise carried by applied fields toward which AI realigns.*
+> Xing Y., Wang Y., Bu Y., Zhou Z., Dong K., Ma Y. *A U-shaped trajectory of diffusion-based interdisciplinarity in science: applied sciences rise, methodological hubs realign.*
 
 The underlying bibliographic data come from OpenAlex (https://openalex.org; snapshot retrieved in September 2024). The files below are the aggregated outputs of our analysis pipeline, which works on subfield-level citation networks built from that snapshot (252 subfields in 26 fields).
 
